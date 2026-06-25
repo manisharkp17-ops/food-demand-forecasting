@@ -72,3 +72,4 @@ The Food Demand Forecasting System demonstrates how Machine Learning can be used
 
 <img width="532" height="393" alt="image" src="https://github.com/user-attachments/assets/7e65eea1-04f7-4ccb-be24-b10bcdfffad4" />
 <img width="549" height="393" alt="image" src="https://github.com/user-attachments/assets/a6564ad6-de27-4f5a-ab39-0eb93daaf1f2" />
+<img width="549" height="393" alt="image" src="https://github.com/user-attachments/assets/a0f467c2-2c4c-4569-8458-4ffb350172f9" />
